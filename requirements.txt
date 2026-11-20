@@ -1,0 +1,10 @@
+Flask
+ddgs
+edge-tts
+face-recognition
+faster-whisper
+ollama
+pyaudio
+pyserial
+tavily-python
+webrtcvad
